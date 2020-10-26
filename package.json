@@ -13,12 +13,12 @@
     "url": "git://github.com/buildfirst/buildfirst.git"
   },
   "dependencies": {
-    "tape": "~2.10.2"
+    "tape": "~4.0.0"
   },
   "devDependencies": {
     "tap": "~0.4.8",
     "grunt-contrib-clean": "^0.5.0",
-    "tape": "^2.10.2",
+    "tape": "^4.0.0",
     "sinon": "^1.9.0",
     "request": "^2.34.0",
     "grunt": "^0.4.4",
